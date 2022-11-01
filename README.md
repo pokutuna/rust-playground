@@ -8,5 +8,4 @@ rust-playground
 ## dirs
 
 - [octocrab](./octocrab)
-- [octocrab](./octocrab)
 - {{ NEXT }}
