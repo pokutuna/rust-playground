@@ -11,4 +11,5 @@ rust-playground
 - [mutable_borrow](./mutable_borrow)
 - [match1](./match1)
 - [partial-trait](./partial-trait)
+- [serde](./serde)
 - {{ NEXT }}
