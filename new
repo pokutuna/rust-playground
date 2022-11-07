@@ -17,3 +17,4 @@ fi
 cd $ROOT
 cargo new $NAME
 sed -i '' -e "s|- {{ NEXT }}|- [$NAME](./$NAME)\n- {{ NEXT }}|" README.md
+cd $NAME
